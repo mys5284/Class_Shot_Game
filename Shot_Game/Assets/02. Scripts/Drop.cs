@@ -5,7 +5,17 @@ using UnityEngine.EventSystems;
 
 public class Drop : MonoBehaviour, IDropHandler
 {
-
+    print("d");
+    print("d");
+    print("d");
+    print("d");
+    print("d");
+    print("d");
+    print("d");
+    print("d");
+    print("d");
+    print("d");
+    print("d");
     public void OnDrop(PointerEventData eventData)
     {
         //slot의 자식의 갯수가 0이라는 의미는
