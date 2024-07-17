@@ -4,9 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-
-print("d");
-
 public class Damage : MonoBehaviour
 {
     const string bulletTag = "BULLET";
